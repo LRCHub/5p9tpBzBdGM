@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "IMMORTAL",
+  "base_artist": "JUVENILE",
+  "createdAt": "2026-02-09T11:40:38.530107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Immortal",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/01_My_Immortal_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Immortal",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/02_Immortal_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Immortal",
+      "artist": "Helloween",
+      "has_synced": false,
+      "path": "select/03_Immortal_Helloween.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Immortal",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/04_Immortal_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Immortal New Reign",
+      "artist": "Rhapsody of Fire",
+      "has_synced": false,
+      "path": "select/05_Immortal_New_Reign_Rhapsody_of_Fire.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Immortal",
+      "artist": "DJ Fresh",
+      "has_synced": false,
+      "path": "select/06_The_Immortal_DJ_Fresh.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Immortal",
+      "artist": "Lil Gotit",
+      "has_synced": true,
+      "path": "select/07_Immortal_Lil_Gotit.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beat It / State of Shock (Immortal version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Beat_It___State_of_Shock_(Immortal_version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dangerous (Immortal Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/09_Dangerous_(Immortal_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Is It Scary / Threatened (Immortal version)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/10_Is_It_Scary___Threatened_(Immortal_version)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Is It Scary \u0000 Threatened (Immortal Version)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/11_Is_It_Scary_\u0000_Threatened_(Immortal_Version)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Planet Earth / Earth Song (Immortal version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_Planet_Earth___Earth_Song_(Immortal_version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Planet Earth \u0000 Earth Song (Immortal Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Planet_Earth_\u0000_Earth_Song_(Immortal_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shake Your Body (Down to the Ground) [Immortal Version]",
+      "artist": "The Jacksons",
+      "has_synced": true,
+      "path": "select/14_Shake_Your_Body_(Down_to_the_Ground)_[Immortal_Version]_The_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shake Your Body (Down to the Ground) (Immortal Version)",
+      "artist": "The Jacksons",
+      "has_synced": true,
+      "path": "select/15_Shake_Your_Body_(Down_to_the_Ground)_(Immortal_Version)_The_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Jackson 5 Medley (Immortal Version)",
+      "artist": "The Jackson 5",
+      "has_synced": true,
+      "path": "select/16_The_Jackson_5_Medley_(Immortal_Version)_The_Jackson_5.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Jackson 5 Medley (Immortal Version)",
+      "artist": "Jackson 5",
+      "has_synced": true,
+      "path": "select/17_The_Jackson_5_Medley_(Immortal_Version)_Jackson_5.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "This Place Hotel (Immortal Version)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/18_This_Place_Hotel_(Immortal_Version)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "This Place Hotel (Immortal Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/19_This_Place_Hotel_(Immortal_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Wanna Be Startin' Somethin' (Immortal Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/20_Wanna_Be_Startin'_Somethin'_(Immortal_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IMMORTAL",
+      "artist": "JUVENILE",
+      "has_synced": false,
+      "path": "select/pl_01_IMMORTAL_JUVENILE.txt"
+    }
+  ]
+}
